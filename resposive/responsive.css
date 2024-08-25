@@ -1,0 +1,54 @@
+@media screen and (max-width: 992px) {
+    .collapse{
+        display: none;
+    }
+    .nav-bar{
+        display: inline-block !important;
+       }
+       .form-control{
+            max-width: 150px;
+       }
+       .banner h1{
+        padding-bottom: 15px !important;
+        font-size: 30px !important;
+       }
+       .banner p{
+        padding-bottom: 15px !important;
+        font-size: 12px !important;
+       }
+       .tittle{
+        padding: 100px 0px !important;
+       }
+       .hero-1{
+        padding: 60px 0px !important;
+       }
+       .steps-title{
+        padding-bottom: 30px !important;
+       }
+       .circle {
+        width: 30% !important;
+        height: 50% !important;
+        border: 2px solid #ffffff;
+        border-radius: 50%;
+        margin: 0 auto !important;
+    }
+       .circle h1{
+   font-size: 30px !important;
+   padding-top: 25px !important;
+     }
+     .circle p{
+        font-size: 30px !important;
+        padding-bottom: 25px !important;
+          }
+      .subscription{
+        max-width: 300px !important;
+        margin: 0 auto;
+      }
+      .Services{
+        padding-left: 10px !important;
+     }
+     .ipsum{
+        text-align: center;
+     }
+     
+  }
